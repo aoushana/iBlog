@@ -7,6 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'rails_bootstrap_navbar'
 gem 'ckeditor', '~> 4.1'
 gem 'carrierwave'
 gem 'mini_magick'
